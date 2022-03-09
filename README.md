@@ -12,3 +12,5 @@
 - 🎬 I love watching movies and I'm a big fan of CR7
 - ⚡ Fun fact Spending 1 hours a day on phone
 
+### GitHub Stats
+ <img src="https://github-readme-stats.vercel.app/api?username=Rishiverma1993&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
