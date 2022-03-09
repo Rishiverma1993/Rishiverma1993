@@ -21,3 +21,37 @@
 <img src="https://img.icons8.com/ios-filled/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+
+
+
+  <br/>
+    <a href="https://github.com/Rishiverma1993/github-readme-stats"><img alt="rishi Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rishiverma1993&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Rishiverma1993/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishiverma1993&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Rishiverma1993/github-readme-activity-graph"><img alt="rishi Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rishiverma1993&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/rishi-verma-1993oct/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/riisshhhii"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/29_rishi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Rishiverma1993">
+</a>
+<a href="https://github.com/Rishiverma1993?tab=followers"><img src="https://img.shields.io/github/followers/Rishiverma1993?label=Followers&style=social" alt="GitHub Badge"></a>
+
