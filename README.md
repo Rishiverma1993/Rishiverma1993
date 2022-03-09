@@ -16,8 +16,8 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Rishiverma1993&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
  
 ### Worked with Languages and Tools:
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/96/000000/jupyter.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/><img src="https://img.icons8.com/ios/96/000000/flask.png"/>
-<img src="https://img.icons8.com/ios-filled/48/000000/github.png"/> <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/matlab.png"/><img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png"/><img src="https://img.icons8.com/ios/48/000000/flask.png"/>
+<img src="https://img.icons8.com/ios-filled/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/matlab.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/opencv.png"/>
