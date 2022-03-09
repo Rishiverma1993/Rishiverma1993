@@ -45,7 +45,7 @@
 <a href = "https://www.linkedin.com/in/rishi-verma-1993oct/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/riisshhhii"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/29_rishi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://www.kaggle.com/rishiverma1993"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png"/>
 
 </p>
 
