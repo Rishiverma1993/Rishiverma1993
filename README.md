@@ -14,3 +14,6 @@
 
 ### GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api?username=Rishiverma1993&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ 
+### Worked with
+<img src="https://img.icons8.com/color/144/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/144/000000/jupyter.png"/>
