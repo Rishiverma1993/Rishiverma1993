@@ -11,7 +11,7 @@
 - 💬 Ask me about data science Topics
 - 📫 How to reach me: <img src="https://img.icons8.com/color/24/000000/linkedin.png"/>[linkedin - @rishi](https://www.linkedin.com/in/rishi-verma-1993oct/) , 
 [instagram - @rishi_29](https://www.instagram.com/29_rishi/) , 
-[keggle -@rishi_DS](https://www.kaggle.com/rishiverma1993)
+[kaggle -@rishi_DS](https://www.kaggle.com/rishiverma1993)
 
 - <img src="https://img.icons8.com/color/24/000000/gmail-new.png"/> : rishiverma1993@gmail.com
 - 🎬 I love watching movies and I'm a big fan of CR7<img src="https://img.icons8.com/ios/24/000000/football2--v2.png"/>
